@@ -1,0 +1,10 @@
+#img
+*.img
+*.png
+logo.jpg
+img/
+#log
+*.log
+password.txt
+#packages
+
