@@ -4,4 +4,4 @@
 
 dfjkldsfldsjgdsjgs
 
-[lorem ipsum](http://google.com)
+[Google](http://google.com)
